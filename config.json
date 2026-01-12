@@ -1,0 +1,92 @@
+{
+  "site": {
+    "title": "Nicu Parchetaru - Expert Flooring Installation & Refinishing | Vancouver",
+    "description": "Professional flooring installation, refinishing and maintenance services in Vancouver. Over 25 years of experience.",
+    "keywords": "flooring Vancouver, hardwood installation, floor refinishing, floor maintenance, Nicu Parchetaru"
+  },
+  "master": {
+    "name": "Nicu Parchetaru",
+    "location": "Vancouver, Canada",
+    "experience": "25+",
+    "description": "Master flooring specialist with over 25 years of experience in installation, refinishing and floor maintenance. Premium quality services for clients in Vancouver and surrounding areas.",
+    "values": [
+      "Superior quality in every project",
+      "Proven experience of over 25 years",
+      "Attention to detail and precise craftsmanship",
+      "Highest quality materials",
+      "Complete services from consultation to completion"
+    ]
+  },
+  "services": [
+    {
+      "title": "New Flooring Installation",
+      "description": "Professional installation of laminate, solid or engineered flooring for homes and apartments.",
+      "icon": "🔨"
+    },
+    {
+      "title": "Floor Refinishing",
+      "description": "Complete restoration of old flooring: sanding, staining, protective finish application.",
+      "icon": "✨"
+    },
+    {
+      "title": "Maintenance & Repairs",
+      "description": "Periodic maintenance services, repair of damaged areas and refinishing.",
+      "icon": "🔧"
+    },
+    {
+      "title": "Technical Consultation",
+      "description": "Professional advice for choosing the right type of flooring and project planning.",
+      "icon": "💡"
+    }
+  ],
+  "pricing": {
+    "installation": {
+      "per_sqm": 25,
+      "per_sqft": 2.32,
+      "currency": "CAD",
+      "note": "Price includes labor and basic materials. May vary depending on flooring type and project complexity."
+    },
+    "refinishing": {
+      "per_sqm": 15,
+      "per_sqft": 1.39,
+      "currency": "CAD",
+      "note": "Price includes sanding, staining and finish application. May vary depending on floor condition."
+    }
+  },
+  "contact": {
+    "phone": "+1 (604) 555-0123",
+    "email": "contact@nicuparchetaru.ca",
+    "address": "Vancouver, BC, Canada",
+    "hours": "Monday - Friday: 8:00 AM - 6:00 PM | Saturday: 9:00 AM - 2:00 PM"
+  },
+  "social": {
+    "facebook": "https://facebook.com/nicuparchetaru",
+    "instagram": "https://instagram.com/nicuparchetaru"
+  },
+  "sections": {
+    "hero": {
+      "title": "Expert Flooring Specialist with Over 25 Years Experience",
+      "subtitle": "Professional flooring installation, refinishing and maintenance services in Vancouver",
+      "cta": "Request Free Quote"
+    },
+    "about": {
+      "title": "About Nicu Parchetaru",
+      "content": "With over 25 years of experience in the flooring industry, Nicu Parchetaru brings professionalism and quality to every project. Specialized in installation, refinishing and floor maintenance, our team offers complete solutions for homes and apartments in Vancouver and surrounding areas."
+    },
+    "gallery": {
+      "title": "Project Gallery",
+      "subtitle": "See the transformations completed by our team"
+    },
+    "calculator": {
+      "title": "Price Calculator",
+      "subtitle": "Estimate the cost of your project",
+      "service_type_label": "Service type",
+      "length_label": "Length",
+      "width_label": "Width",
+      "unit_label": "Unit",
+      "price_per_unit_label": "Price per unit (optional)",
+      "calculate_button": "Calculate",
+      "result_label": "Estimated cost"
+    }
+  }
+}

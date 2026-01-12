@@ -1,0 +1,27 @@
+# Fișiere sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editori
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies (dacă vei adăuga în viitor)
+node_modules/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+temp/
